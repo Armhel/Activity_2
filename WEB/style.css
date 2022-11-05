@@ -1,0 +1,42 @@
+p {
+ 
+ margin-top: -20px;
+ margin-left: 490px;
+}
+
+.students {
+  margin-top: 38px;
+  margin-right: 120px;
+}
+
+
+.STC-lessons {
+  margin-top: -38px;
+  margin-left: 130px;
+}
+
+h1{
+  font-family: 'Oswald', sans-serif;
+  color: coral;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+h2{
+  margin: 25px 50px 75px;
+  font-family: 'Roboto Mono', monospace;
+  color: coral;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+
+.Status {
+  margin-top: -38px;
+  margin-left: 290px;
+}
+
+.Type {
+  margin-top: -38px;
+  margin-left: 410px;
+}
